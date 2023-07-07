@@ -1,4 +1,4 @@
-# [Custom checkbox CSS](https://lebryere.github.io/only_css_slider_1/)
+# [Custom checkbox CSS](https://lebryere.github.io/Custom-checkbox-CSS/)
 
 ## Browser Support
 
@@ -8,7 +8,7 @@
 
 ## Preview
 
-**[View Live Preview](https://lebryere.github.io/only_css_slider_1/)**
+**[View Live Preview](https://lebryere.github.io/Custom-checkbox-CSS/)**
 
 ## Status
 
