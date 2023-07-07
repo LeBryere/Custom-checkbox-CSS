@@ -18,7 +18,7 @@
 
 ### Basic Usage
 
- You can find the checkbox in the HTML code, which can give a unique style to your website if needed. You can customize it according to your preferences. Use it confidently and make your website stand out from the crowd! Simply paste the code into your own.
+You can find the checkbox in the HTML code, which can give a unique style to your website if needed. Open the checked.svg file in the code editor, and replace the colors at <path ....... fill="#aa8354"> and border: 3.5px solid #aa8453; with your desired ones. You can customize it according to your preferences. Use it confidently and make your website stand out from the crowd! Simply paste the code into your own.
 
 ### THE POINT
 ```css
