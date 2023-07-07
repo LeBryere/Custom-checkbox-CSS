@@ -1,5 +1,4 @@
-# Custom-checkbox-CSS
-# [Only css Slider](https://lebryere.github.io/only_css_slider_1/)
+# [Custom checkbox CSS](https://lebryere.github.io/only_css_slider_1/)
 
 ## Browser Support
 
@@ -8,8 +7,6 @@
 92+ ✔ | 91+ ✔ | 88+ ✔ | 62+ ✔ | 85+ ✔ | 35+ ✔ |
 
 ## Preview
-
-[![Resume Preview](preview.png)](https://lebryere.github.io/only_css_slider_1/)
 
 **[View Live Preview](https://lebryere.github.io/only_css_slider_1/)**
 
