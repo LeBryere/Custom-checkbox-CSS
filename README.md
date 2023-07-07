@@ -50,7 +50,7 @@
          position: absolute;
          left: 0;
          top: 0;
-         background-image: url(img/checked.png);
+         background-image: url(img/checked.svg);
          width: 35px;
          height: 35px;
          background-size: 30px;
