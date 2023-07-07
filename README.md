@@ -4,7 +4,7 @@
 
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Samsung Internet](https://raw.githubusercontent.com/alrra/browser-logos/master/src/samsung-internet/samsung-internet_48x48.png)
 --- | --- | --- | --- | --- | --- |
-92+ ✔ | 91+ ✔ | 88+ ✔ | 62+ ✔ | 85+ ✔ | 35+ ✔ |
+98+ ✔ | 98+ ✔ | 88+ ✔ | 82+ ✔ | 85+ ✔ | 75+ ✔ |
 
 ## Preview
 
@@ -12,7 +12,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/only_css_slider_1.github.io/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Custom-checkbox-CSS/blob/main/LICENSE)
 
 ## Usage
 
@@ -62,4 +62,4 @@
 
 ## Copyright and License
 
-Copyright 2023 Lebryere. Code released under the[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/only_css_slider_1.github.io/blob/master/LICENSE) license.
+Copyright 2023 Lebryere. Code released under the[![GitHub license](https://img.shields.io/badge/license-MIT-green?&style=plastic)](https://github.com/LeBryere/Custom-checkbox-CSS/blob/main/LICENSE) license.
